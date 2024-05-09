@@ -1,2 +1,1 @@
-# tanzimahadproject
-# app-2022
+Chat Application using Java and Google Firebase
